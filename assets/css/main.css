@@ -95,6 +95,7 @@ input, select, textarea {
 			-webkit-transition: none !important;
 			-ms-transition: none !important;
 			transition: none !important;
+			margin:0;
 		}
 
 	body, input, select, textarea {
@@ -103,6 +104,7 @@ input, select, textarea {
 		font-size: 16pt;
 		font-weight: 400;
 		line-height: 1.75em;
+		margin:0;
 	}
 
 	a {
@@ -2944,6 +2946,7 @@ input, select, textarea {
 
 			html, body {
 				overflow-x: hidden;
+				margin: 0;
 			}
 
 			body, input, select, textarea {
@@ -3095,6 +3098,7 @@ input, select, textarea {
 				-webkit-transform: translateX(-23em);
 				-ms-transform: translateX(-23em);
 				transform: translateX(-23em);
+				margin: 0;
 			}
 
 			body.header-visible #header {
@@ -3247,6 +3251,7 @@ input, select, textarea {
 				-webkit-transform: translateX(-17em);
 				-ms-transform: translateX(-17em);
 				transform: translateX(-17em);
+				margin: 0;
 			}
 
 	}
@@ -3259,6 +3264,7 @@ input, select, textarea {
 
 			html, body {
 				min-width: 320px;
+				margin: 0;
 			}
 
 			body, input, select, textarea {
