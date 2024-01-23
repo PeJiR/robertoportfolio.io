@@ -1,14 +1,4 @@
-#  My First Personal Website
-
-Just an amazingly simple single-page responsive template designed specifically for personal sites and portfolios (although it's really flexible and can be used for other purposes too). It includes a contact form, pre-styled elements, and Sass sources.
-
-I'm still working on this website and trying to post updates occasionally. 😄
-
-Feedback, bug reports, and comments are always welcome! ✨
-
- 
-
-<h1 align="center">Survey Form </h1>
+<h1 align="center">My First Personal Website </h1>
 
 <a href="https://www.linkedin.com/in/pejir/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn" /></a>
 
@@ -28,12 +18,17 @@ Feedback, bug reports, and comments are always welcome! ✨
 --->
 ## Project description: 
 
-This project will involve creating a survey form using HTML and CSS to gather user data. This form will provide valuable insights into user preferences and experiences, allowing us to enhance user interactions.
+Just an amazingly simple single-page responsive template designed specifically for personal sites and portfolios (although it's really flexible and can be used for other purposes too). It includes a contact form, pre-styled elements, and Sass sources.
+
+I'm still working on this website and trying to post updates occasionally. 😄
+
+Feedback, bug reports, and comments are always welcome! ✨
+
 
 
 ##  See project online 
 
-[Link to project](https://codepen.io/Robeloper/full/OJqgbGP) ✨
+[Link to project](https://pejir.github.io/robertoportfolio.io/) ✨
 
 
 ## Technology Used
