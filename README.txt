@@ -1,4 +1,4 @@
-<h1>Personal Website</h1> 
+#  Personal Website
 
 Just an amazingly simple single-page responsive template designed specifically for personal sites and portfolios (although it's really flexible and can be used for other purposes too). It includes a contact form, pre-styled elements, and Sass sources.
 
